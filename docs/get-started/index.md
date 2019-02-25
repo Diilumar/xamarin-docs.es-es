@@ -20,7 +20,7 @@ Información general sobre los requisitos de plataforma de las aplicaciones desa
 
 ## <a name="installationcross-platformget-startedinstallationindexmd"></a>[Instalación](~/cross-platform/get-started/installation/index.md)
 
-Cómo configurar Visual Studio y Xamarin para comenzar a crear aplicaciones móviles con. NET.
+Cómo configurar Visual Studio y Xamarin para comenzar a crear aplicaciones móviles con .NET.
 
 ## <a name="build-your-first-appfirst-appindexmd"></a>[Compilación de la primera aplicación](first-app/index.md)
 
